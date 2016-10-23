@@ -1,11 +1,12 @@
-JimsJoint is a top rated business!
-We offer a flexible schedule. 
+Injo and Lydia's Sushi Garden is a number one Japanese diner in town.
+We serve different entrees: sashimi, nigiri, hot plates and many enjoyable food
 
 Current openings:
 
-    Head chef
-    Office Manager
-    Assistant office manager
-    Assistant to the assistant manager
+- Secondary Chef
+- Dishwasher
+- Bouncer
+- Server
+- Line cook manager
 
-Drop off your resume between 8-5 monday - friday. 
+Please drop off a resume during our hours of operation.
